@@ -1,3 +1,4 @@
 ### Hi there 👋🏼,
-I'm a West-End performer becoming a Junior Software Developer!
-Fun fact: born in a village that's not on Google maps 🇹🇿
+I'm a former West-End performer🎭 and now a Junior Software Developer!
+<br />
+Fun fact: I was born in an untraceable Tanzanian🇹🇿 village. 
